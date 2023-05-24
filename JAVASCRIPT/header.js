@@ -8,7 +8,7 @@ class MyHeader extends HTMLElement
                 <tr>
                     <th>
                         <div class="button">
-                            <a href="../index.html" class="button">Home Page</a>
+                            <a href="index.html" class="button">Home Page</a>
                         </div>
                     </th>  <!-- 1 -->
                     <th>
