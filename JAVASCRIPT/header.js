@@ -14,11 +14,11 @@ class MyHeader extends HTMLElement
                         <div class="dropdown">
                             <button class="dropbtn"><strong>Portfolio</strong></button>
                             <div class="dropdown-content">
-                                <a href="GamingProject.html">Gaming Projects</a>
-                                <a href="CodingProject.html">Coding Projects</a>
-                                <a href="ArtProject.html">Art Projects</a>
-                                <a href="MusicProject.html">Music Projects</a>
-                                <a href="Future.html">What I am Working on now</a>
+                                <a href="GamingProject.html">Gaming Projects (Unfinished)</a>
+                                <a href="CodingProject.html">Coding Projects (Unfinished)</a>
+                                <a href="ArtProject.html">Art Projects (Unfinished)</a>
+                                <a href="MusicProject.html">Music Projects (Unfinished)</a>
+                                <a href="Future.html">What I am Working on now (Unfinished)</a>
                             </div>
                         </div>
                     </th>  <!-- 2  -->
