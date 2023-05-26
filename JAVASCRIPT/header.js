@@ -14,7 +14,7 @@ class MyHeader extends HTMLElement
                         <div class="dropdown">
                             <button class="dropbtn"><strong>Portfolio</strong></button>
                             <div class="dropdown-content">
-                                <a href="GamingProject.html">Gaming Projects (Unfinished)</a>
+                                <a href="GamingProject.html">Gaming Projects</a>
                                 <a href="CodingProject.html">Coding Projects (Unfinished)</a>
                                 <a href="ArtProject.html">Art Projects (Unfinished)</a>
                                 <a href="MusicProject.html">Music Projects (Unfinished)</a>
