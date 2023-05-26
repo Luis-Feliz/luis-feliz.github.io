@@ -14,7 +14,10 @@ th{
 td {
   border:1px solid black;
 }
-
+h2
+{
+  text-align: center;
+}
 .button {
   background-color: #4CAF50; /* Green */
   color: rgb(0, 0, 0);
