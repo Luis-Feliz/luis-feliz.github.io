@@ -18,7 +18,7 @@ class MyHeader extends HTMLElement
                                 <a href="CodingProject.html">Coding Projects</a>
                                 <a href="ArtProject.html">Art Projects</a>
                                 <a href="MusicProject.html">Music Projects</a>
-                                <a href="Future.html">What I am Working on now</a>
+                                <a href="Future.html">Future Projects</a>
                             </div>
                         </div>
                     </th>  <!-- 2  -->
