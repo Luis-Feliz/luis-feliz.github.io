@@ -11,6 +11,11 @@ class MyHeader extends HTMLElement
                         </div>
                     </th>  <!-- 1 -->
                     <th>
+                        <div class="button">
+                            <a href="index.html" class="button">Skills</a>
+                        </div>
+                    </th>  <!-- 2 -->
+                    <th>
                         <div class="dropdown">
                             <button class="dropbtn"><strong>Portfolio</strong></button>
                             <div class="dropdown-content">
@@ -21,17 +26,17 @@ class MyHeader extends HTMLElement
                                 <a href="Future.html">Future Projects</a>
                             </div>
                         </div>
-                    </th>  <!-- 2  -->
+                    </th>  <!-- 3 -->
                     <th>
                         <div class="button">
-                            <a href="AboutMe.html" class="button"> About Me</a>
+                            <a href="AboutMe.html" class="button">About Me</a>
                         </div>
-                    </th>  <!-- 3 -->
+                    </th>  <!-- 4 -->
                     <th>
                         <div class="button">
                             <a href="ContactMe.html" class="button">Contact Me</a>
                         </div>
-                    </th>  <!-- 4 -->
+                    </th>  <!-- 5 -->
             </table>
         `
     }
