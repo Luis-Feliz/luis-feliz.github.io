@@ -7,7 +7,7 @@ table{
   border:1px solid black;
   text-align: left;
   position: sticky;
-
+  top: 1rem;
 }
 th{
   width: 25%;
