@@ -29,8 +29,8 @@ td {
   font-size: 16px;
 }
 
-.button:hover{background-color: #08007e;}
-.button:active {background-color: #050044;}
+.button:hover{background-color: #050044;}
+.button:active {background-color: #020022;}
 
 
 /* Style The Dropdown Button */
@@ -70,8 +70,8 @@ td {
   }
   
   /* Change color of dropdown links on hover */
-  .dropdown-content a:hover {background-color: #08007e}
-  .dropdown-content a:active {background-color: #05004d}
+  .dropdown-content a:hover {background-color: #05004d}
+  .dropdown-content a:active {background-color: #030027}
   
   /* Show the dropdown menu on hover */
   .dropdown:hover .dropdown-content {
