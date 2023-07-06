@@ -4,7 +4,7 @@ class MyHeader extends HTMLElement
     {
         this.innerHTML = 
         `   
-            <table>
+            
                     <th>
                         <div class="button">
                             <a href="index.html" class="button">Home Page</a>
@@ -32,7 +32,6 @@ class MyHeader extends HTMLElement
                             <a href="ContactMe.html" class="button">Contact Me</a>
                         </div>
                     </th>  <!-- 4 -->
-            </table>
         `
     }
 }
