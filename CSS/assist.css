@@ -7,7 +7,7 @@ table{
   border:1px solid rgb(255, 255, 255);
   text-align: left;
   position: sticky;
-  top: 100%;
+  top: 1rem;
 }
 th{
   width: 25%;
