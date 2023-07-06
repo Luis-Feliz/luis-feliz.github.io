@@ -31,7 +31,7 @@ class MyHeader extends HTMLElement
                                     <a href="Future.html">Future Projects</a>
                                 </div>
                             </div>
-                        <td>
+                        </td>
                     </th>  <!-- 3 -->
                     <th>
                         <td>

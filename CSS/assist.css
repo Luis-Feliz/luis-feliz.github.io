@@ -4,11 +4,11 @@ body {
 
 table{
   width: 100%;
-  background-color: rgb(97, 97, 97);
+  background-color: rgb(25, 25, 25);
   border:1px solid rgb(255, 255, 255);
   text-align: left;
   position: sticky;
-  top: 0.0001rem;
+  top: 1rem;
 }
 th{
   width: 20%;
