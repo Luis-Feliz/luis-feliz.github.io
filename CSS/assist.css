@@ -5,14 +5,14 @@ body {
 table{
   width: 50%;
   background-color: rgb(25, 25, 25);
-  border:1px solid rgb(255, 255, 255);
-  text-align: left;
+  /* border:1px solid rgb(255, 255, 255); */
+  text-align: center;
   position: sticky;
   top: 1rem;
 }
 th{
   width: 20%;
-  border:1px solid rgb(255, 255, 255);
+  /* border:1px solid rgb(255, 255, 255); */
 }
 
 
