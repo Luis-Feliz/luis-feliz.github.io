@@ -6,11 +6,9 @@ class MyHeader extends HTMLElement
         `   
             <table>
                     <th>
-                        
-                            <div class="button">
-                                <a href="index.html" class="button">Home Page</a>
-                            </div>
-                        
+                        <div class="button">
+                            <a href="index.html" class="button">Home Page</a>
+                        </div>
                     </th>  <!-- 1 -->
                     <th>
                         <div class="button">
