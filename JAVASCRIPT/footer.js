@@ -2,7 +2,10 @@ class MyFooter extends HTMLElement
 {
     connectedCallback()
     {
-        this.innerHTML = ``
+        this.innerHTML = 
+        `
+        <!--- Insert Footer Info here -->
+        `
     }
 }
 

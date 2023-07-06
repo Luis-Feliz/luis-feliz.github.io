@@ -4,28 +4,35 @@ class MyHeader extends HTMLElement
     {
         this.innerHTML = 
         `   
-        <div class="button">
-            <a href="index.html" class="button">Home Page</a>
-        </div>
-                    
-        <div class="dropdown">
-            <button class="dropbtn"><strong>Portfolio</strong></button>
-            <div class="dropdown-content">
-                <a href="GamingProject.html">Gaming Projects</a>
-                <a href="CodingProject.html">Coding Projects</a>
-                <a href="ArtProject.html">Art Projects</a>
-                <a href="MusicProject.html">Music Projects</a>
-                <a href="Future.html">Future Projects</a>
-            </div>
-        </div>
-                   
-        <div class="button">
-            <a href="AboutMe.html" class="button"> About Me</a>
-        </div>
-                    
-        <div class="button">
-            <a href="ContactMe.html" class="button">Contact Me</a>
-        </div>
+            <table>
+                    <th>
+                        <div class="button">
+                            <a href="index.html" class="button">Home Page</a>
+                        </div>
+                    </th>  <!-- 1 -->
+                    <th>
+                        <div class="dropdown">
+                            <button class="dropbtn"><strong>Portfolio</strong></button>
+                            <div class="dropdown-content">
+                                <a href="GamingProject.html">Gaming Projects</a>
+                                <a href="CodingProject.html">Coding Projects</a>
+                                <a href="ArtProject.html">Art Projects</a>
+                                <a href="MusicProject.html">Music Projects</a>
+                                <a href="Future.html">Future Projects</a>
+                            </div>
+                        </div>
+                    </th>  <!-- 2  -->
+                    <th>
+                        <div class="button">
+                            <a href="AboutMe.html" class="button"> About Me</a>
+                        </div>
+                    </th>  <!-- 3 -->
+                    <th>
+                        <div class="button">
+                            <a href="ContactMe.html" class="button">Contact Me</a>
+                        </div>
+                    </th>  <!-- 4 -->
+            </table>
         `
     }
 }
