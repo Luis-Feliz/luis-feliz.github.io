@@ -104,6 +104,8 @@ th{
     /******************/
     background-size: auto;
     font-size: 30px;
+    text-align: center;
+    line-height: 15;
   }
 footer{
     background-color:red;
