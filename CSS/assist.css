@@ -14,13 +14,13 @@ table{
 }
 
 th{
-  width: 20px;
+  width: 20%;
   /* border:1px solid rgb(255, 255, 255); */
 }
 
 
 .button {
-  background-color: #08007e; /* Green */
+  background-color: rgb(25, 25, 25); /* Green */
   color: rgb(255, 255, 255);
   text-align: center;
   display: inline-block;
@@ -31,13 +31,13 @@ th{
   font-size: 16px;
 }
 
-.button:hover{background-color: #050044;}
-.button:active {background-color: #020022;}
+.button:hover{background-color: rgb(50, 50, 50);}
+.button:active {background-color: rgb(0, 0, 0);}
 
 
 /* Style The Dropdown Button */
 .dropbtn {
-    background-color: #08007e;
+    background-color: rgb(25, 25, 25);
     color: rgb(255, 255, 255);
     padding: 16px;
     font-size: 16px;
@@ -57,7 +57,7 @@ th{
   .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #08007e;
+    background-color: rgb(25, 25, 25);
     box-shadow: 0px 8px 16px 0px rgba(255, 255, 255, 0.2);
     z-index: 1;
     width: 100%;
@@ -72,8 +72,8 @@ th{
   }
   
   /* Change color of dropdown links on hover */
-  .dropdown-content a:hover {background-color: #05004d}
-  .dropdown-content a:active {background-color: #030027}
+  .dropdown-content a:hover {background-color: rgb(50, 50, 50)}
+  .dropdown-content a:active {background-color: rgb(0, 0, 0)}
   
   /* Show the dropdown menu on hover */
   .dropdown:hover .dropdown-content {
@@ -83,7 +83,7 @@ th{
   /* Change the background color of the dropdown button when the dropdown content is shown */
   .dropdown:hover .dropbtn {
     width: 100%;
-    background-color: #08007e;
+    background-color: rgb(50, 50, 50);
   }
 
 footer{
