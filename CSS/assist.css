@@ -90,14 +90,9 @@ th{
   }
 
   .container{
-    background-color: #050505;
-    height: 100vh;
-    width: 100vw;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    background:url(../GIF/Mario_1.gif);
   }
-  .image{
+  /* .image{
       height: 200px;
       width: 650px;
     /*image Goes here */
@@ -107,7 +102,7 @@ th{
     font-size: 30px;
     text-align: center;
     line-height: 15;
-  }
+  } */
 footer{
     background-color:red;
 }
