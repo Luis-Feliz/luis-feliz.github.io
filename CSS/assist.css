@@ -6,16 +6,14 @@ body {
 }
 
 table{
-  width: 75%;
+  width: 100%;
   background-color: rgb(25, 25, 25);
   text-align: center;
   position: sticky;
   top: 0;
-  padding-left: 30%;
-  padding-right: 30%;
   /*if I wanted to make the table smaller. This centers it*/
-  margin-left: auto;
-  margin-right: auto;
+  /* margin-left: auto;
+  margin-right: auto; */
 }
 
 th{
