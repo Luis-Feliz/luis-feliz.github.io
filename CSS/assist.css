@@ -90,15 +90,16 @@ th{
   }
 
   .container{
+    height: 100px;
     background:url(../GIF/Mario_1.gif);
   }
   /* .image{
       height: 200px;
       width: 650px;
     /*image Goes here */
-    background:url(../GIF/Mario_1.gif);
+    /*background:url(../GIF/Mario_1.gif);
     /******************/
-    background-size: 650px 200px;
+    /* background-size: 650px 200px;
     font-size: 30px;
     text-align: center;
     line-height: 15;
