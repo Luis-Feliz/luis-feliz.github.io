@@ -11,8 +11,8 @@ table{
   text-align: center;
   position: sticky;
   top: 0;
-  padding-left: auto;
-  padding-right: auto;
+  padding-left: 25%;
+  padding-right: 25%;
   /*if I wanted to make the table smaller. This centers it*/
   /* margin-left: auto;
   margin-right: auto; */
@@ -25,7 +25,7 @@ th{
 
 
 .button {
-  background-color: rgb(25, 25, 25); /* Green */
+  background-color: rgb(25, 25, 25);
   color: rgb(255, 255, 255);
   text-align: center;
   display: inline-block;
