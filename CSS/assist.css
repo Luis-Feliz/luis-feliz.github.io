@@ -11,8 +11,8 @@ table{
   text-align: center;
   position: sticky;
   top: 0;
-  padding-left: auto;
-  padding-right: auto;
+  padding-left: 20%;
+  padding-right: 20%;
   /*if I wanted to make the table smaller. This centers it*/
   margin-left: auto;
   margin-right: auto;
