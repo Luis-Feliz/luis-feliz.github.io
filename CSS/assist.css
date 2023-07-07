@@ -89,12 +89,21 @@ th{
     background-color: rgb(50, 50, 50);
   }
 
+.container{
+  background-color: #050505;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .image{
   height: auto;
   width: auto;
   background:url(GIF/Mario_1.gif);
-  background-size: auto;
-  font-size: 16px;
+  background-size: 650px 200px;
+  font-size: 180px;
 }
 footer{
     background-color:red;
