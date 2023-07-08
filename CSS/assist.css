@@ -89,23 +89,26 @@ th{
     background-color: rgb(50, 50, 50);
   }
 
-  .container{
-    height: 1000px;
-    max-width: auto;
+  .gif_container{
+    /* padding-top: 250px; */
+    background:url(../GIF/SlimeHunter.gif);
+    height: 700px;
+    width: 97.5vw;
     text-align: center;
-    background:url(../GIF/Mario_1.gif);
+    background-repeat:no-repeat;
+    background-size: 100%;
   }
-  /* .image{
-      height: 200px;
-      width: 650px;
-    /*image Goes here */
-    /*background:url(../GIF/Mario_1.gif);
-    /******************/
-    /* background-size: 650px 200px;
-    font-size: 30px;
+  .container{
+    /* padding-top: 250px; */
+    /*background:url(../GIF/SlimeHunter.gif);*/
+    height: 700px;
+    width: 97.5vw;
     text-align: center;
-    line-height: 15;
-  } */
+    background-repeat:no-repeat;
+    background-size: 100%;
+  }
+  
+
 footer{
     background-color:red;
 }
