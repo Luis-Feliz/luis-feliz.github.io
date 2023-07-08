@@ -90,7 +90,8 @@ th{
   }
 
   .container{
-    height: 100px;
+    height: 1000px;
+    text-align: center;
     background:url(../GIF/Mario_1.gif);
   }
   /* .image{
