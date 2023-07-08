@@ -91,6 +91,7 @@ th{
 
   .container{
     height: 1000px;
+    max-width: auto;
     text-align: center;
     background:url(../GIF/Mario_1.gif);
   }
