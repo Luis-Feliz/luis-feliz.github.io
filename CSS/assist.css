@@ -101,6 +101,8 @@ th{
   .container{
     /* padding-top: 250px; */
     /*background:url(../GIF/SlimeHunter.gif);*/
+    color: rgb(255, 255, 255);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     height: 700px;
     width: 97.5vw;
     text-align: center;
