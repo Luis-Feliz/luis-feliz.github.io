@@ -21,7 +21,6 @@ th{
   /* border:1px solid rgb(255, 255, 255); */
 }
 
-
 .button {
   background-color: rgb(25, 25, 25);
   color: rgb(255, 255, 255);
@@ -95,7 +94,7 @@ th{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     /* background:url(../IMAGES/Background_Skill.png); */
     height: 100%;
-    width: 97.5vw;
+    width: 100%;
     text-align: center;
     background-repeat:no-repeat;
     background-size: 100%;
@@ -104,10 +103,12 @@ th{
     /* padding-top: 250px; */
     background:url(../GIF/SlimeHunter.gif);
     height: 700px;
-    width: 97.4vw;
+    width: 100%;
     text-align: center;
     background-repeat:no-repeat;
     background-size: 100%;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .slide_container{
@@ -136,7 +137,6 @@ th{
   .box{
       padding-top: 2%; 
       padding-bottom: 2%; 
-
       margin-left: auto;
       margin-right: auto;
       background-color: antiquewhite;
@@ -146,6 +146,17 @@ th{
       color: black;
       background-repeat:no-repeat;
       background-size: 100%;
+  }
+
+  .line{
+    background-color: white;
+    width: 90%;
+    height: 1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+
   }
 
   /* Style inputs with type="text", select elements and textareas */
@@ -185,11 +196,17 @@ th{
   input[type=reset]:hover {
     background-color: #45a049;
   }
-  
-  .block{
-
-  }
 
 footer{
-    background-color:red;
+  position: absolute;
+  background-color:rgb(68, 0, 0);
+  color: white;
+  width: 100%;
+  text-align: center;
+  margin-top: 1%;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-left: -8px;
+
+  /* padding-bottom: 1px; */
 }

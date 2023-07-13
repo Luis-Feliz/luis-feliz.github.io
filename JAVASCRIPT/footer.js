@@ -4,7 +4,8 @@ class MyFooter extends HTMLElement
     {
         this.innerHTML = 
         `
-        <!--- Insert Footer Info here -->
+            <h5>Developed by Luis Feliz</h5>
+            <p>*Links to my other sites*</p>
         `
     }
 }
