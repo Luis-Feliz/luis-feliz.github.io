@@ -18,9 +18,9 @@ class MyHeader extends HTMLElement
                         </div>
                     </th>  <!-- 2 -->
                     <th>
-                    
-                        <div class="dropdown">
-                            <button class="dropbtn">Portfolio</button>
+                        <div class="dropdown" class = "button">
+                            
+                        <a href = "/#Portfolio" class="button"><button class="dropbtn">Portfolio</button></a>
                             <div class="dropdown-content">
                                 <a href="GamingProject.html">Gaming Projects</a>
                                 <a href="CodingProject.html">Coding Projects</a>
