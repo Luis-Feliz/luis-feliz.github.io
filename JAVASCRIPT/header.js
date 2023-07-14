@@ -7,17 +7,20 @@ class MyHeader extends HTMLElement
             <table>
                     <th>
                         <div class="button">
-                            <a href="index.html" class="button">Home Page</a>
+                            <!-- <a href="index.html" class="button">Home Page</a> -->
+                            <a href = "/#Home" class="button">Home</a>
                         </div>
                     </th>  <!-- 1 -->
                     <th>
                         <div class="button">
-                            <a href="index.html" class="button">Skills</a>
+                            <!-- <a href="index.html" class="button">Skills</a> -->
+                            <a href = "/#Skills" class="button">Skills</a>
                         </div>
                     </th>  <!-- 2 -->
                     <th>
+                    
                         <div class="dropdown">
-                            <button class="dropbtn"><strong>Portfolio</strong></button>
+                            <button class="dropbtn">Portfolio</button>
                             <div class="dropdown-content">
                                 <a href="GamingProject.html">Gaming Projects</a>
                                 <a href="CodingProject.html">Coding Projects</a>
@@ -29,12 +32,14 @@ class MyHeader extends HTMLElement
                     </th>  <!-- 3 -->
                     <th>
                         <div class="button">
-                            <a href="AboutMe.html" class="button">About Me</a>
+                            <!-- <a href="AboutMe.html" class="button">About Me</a> -->
+                            <a href = "/#About" class="button">About Me </a>
                         </div>             
                     </th>  <!-- 4 -->
                     <th>
                         <div class="button">
-                            <a href="ContactMe.html" class="button">Contact Me</a>
+                        <!-- <a href="ContactMe.html" class="button">Contact Me</a> -->
+                        <a href = "/#Contact" class="button">Contact Me</a>
                         </div>
                     </th>  <!-- 5 -->
             </table>

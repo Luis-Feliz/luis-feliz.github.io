@@ -197,6 +197,11 @@ th{
 
   }
 
+  .description{
+    text-align: center; 
+    margin: auto;
+  }
+
 footer{
   position: absolute;
   background-color:rgb(68, 0, 0);
