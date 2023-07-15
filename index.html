@@ -129,15 +129,25 @@
     <section id="Portfolio">
       <div class="slide_container"> 
       <h1><u>Profolio</u></h1>
-      <!-- Slideshow container -->
-      <!-- Add as many Images as you want with this format -->
-      <img class="mySlides" src="IMAGES/Spine_MAYA.png">
-      <img class="mySlides" src="IMAGES/Wavyman.png">
-      <img class="mySlides" src="IMAGES/Web.png">
-      <img class="mySlides" src="IMAGES/Wavyman.png">
+      <div class="row" style="width: 75%; margin-left: auto; margin-right: auto;" > 
+        <!-- Slideshow container -->
+        <button style="width: 12.5%; height: 500px; background-color:  rgb(40, 40, 40); color: white;" onclick="plusDivs(-1)"> &#10094; <!-- "<" -->  </button>
+        <!--- Add as many Images as you want with this format --->
+        <img class="mySlides" src="IMAGES/Spine_MAYA.png" >
+        <img class="mySlides" src="IMAGES/Wavyman.png">
+        <img class="mySlides" src="IMAGES/Web.png">
+        <img class="mySlides" src="IMAGES/Wavyman.png">
+        <img class="mySlides" src="IMAGES/Wavyman.png">
+        <!-------------------------------------------------------->
+        <button style="width: 12.5%; height: 500px; background-color: rgb(40, 40, 40); color: white;" onclick="plusDivs(1)">  &#10095; <!-- ">" -->  </button>
+      </div>
       
-      <button style="width: 10%; height: 50px;" onclick="plusDivs(-1)"> &#10094; <!-- "<" -->  </button>
-      <button style="width: 10%; height: 50px;" onclick="plusDivs(1)">  &#10095; <!-- ">" -->  </button>
+      <button class="demo" onclick="location.href='GamingProject.html'"><strong>Gaming Page</strong></button> 
+      <button class="demo" onclick="location.href='CodingProject.html'"><strong>Coding Page</strong></button> 
+      <button class="demo" onclick="location.href='ArtProject.html'"><strong>Art Page</strong></button> 
+      <button class="demo" onclick="location.href='MusicProject.html'"><strong>Music Page</strong></button> 
+      <button class="demo" onclick="location.href='Future.html'"><strong>Future Page</strong></button> 
+
       <script src=JAVASCRIPT/slideshow.js></script>
       </div>
     </section>
