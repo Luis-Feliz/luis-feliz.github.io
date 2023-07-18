@@ -8,15 +8,9 @@
         $mailTo = "luisfeliz42100@gmail.com";
         $headers = "From: ".$mailFrom;
         $txt = "You have received an e-mail from".$name.".\n\n".$message;
-
-
-        header($mailTo);
+        
         @mail($mailTo, $subject, $txt, $headers);
+
+        header("Location: index.html");
     }       
-?>
-
-    
-
-
-        
-        
+?>      
