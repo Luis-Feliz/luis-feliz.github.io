@@ -103,7 +103,7 @@ th{
 
   /* Style the submit button with a specific background color etc */
   input[type=submit] {
-    background-color: #04AA6D;
+    background-color: rgb(25, 25, 25);
     color: white;
     padding: 12px 20px;
     border: none;
@@ -111,7 +111,7 @@ th{
     cursor: pointer;
   }
   input[type=reset] {
-    background-color: #04AA6D;
+    background-color: rgb(25, 25, 25);
     color: white;
     padding: 12px 20px;
     border: none;
@@ -121,10 +121,16 @@ th{
 
   /* When moving the mouse over the submit button, add a darker green color */
   input[type=submit]:hover {
-    background-color: #45a049;
+    background-color: rgb(50, 50, 50)
   }
   input[type=reset]:hover {
-    background-color: #45a049;
+    background-color: rgb(50, 50, 50)
+  }
+  input[type=submit]:active {
+    background-color: rgb(0, 0, 0)
+  }
+  input[type=reset]:active {
+    background-color: rgb(0, 0, 0)
   }
 /**************************************************************************************************************/
   .container{

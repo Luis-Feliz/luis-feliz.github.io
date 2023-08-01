@@ -36,13 +36,13 @@ class MyHeader extends HTMLElement
                             <a href = "/#About" class="button">About Me </a>
                         </div>             
                     </th>  <!-- 4 -->
-                    <!--
+                    
                     <th>
                         <div class="button">
                         <a href = "/#Contact" class="button">Contact Me</a>
                         </div>
                     </th>  
-                    -->
+                    
                     <!-- 5 -->
             </table>
         `
